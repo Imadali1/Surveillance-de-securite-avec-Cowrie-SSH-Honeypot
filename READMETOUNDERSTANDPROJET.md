@@ -1,3 +1,5 @@
+switch to RAW
+
 /cowrie-ssh-honeypot
 │
 ├── /cowrie
