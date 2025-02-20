@@ -21,4 +21,4 @@ switch to RAW
 │   ├── alert_script.py            # Script Python pour envoyer des alertes
 │
 ├── README.md                      # Documentation du projet
-└── LICENSE                        # Licence du code (ex : MIT)
+
