@@ -1,0 +1,6 @@
+{
+  "title": "Cowrie SSH Honeypot Dashboard",
+  "hits": 0,
+  "description": "Dashboard for monitoring SSH login attempts on Cowrie honeypot.",
+  "panelsJSON": "[...]"  # Ajoute les détails du tableau de bord ici
+}
